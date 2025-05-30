@@ -1,6 +1,6 @@
 # Modern Hotel Network Design and Implementation
 
-This project is a personal learning exercise to design and implement a Hotel network for using Cisco Packet Tracer.
+This project is a personal learning exercise to design and implement a Hotel network using Cisco Packet Tracer.
 
 ---
 
