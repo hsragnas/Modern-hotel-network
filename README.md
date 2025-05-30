@@ -49,7 +49,7 @@ Modern Hotel has:
 ---
 
 ## 🎥 **Resources**
-This project was inspired by a Cisco Packet Tracer tutorial to help understand and practice networking concepts.
+This project was inspired by a Gurutech Networking Training to help understand and practice networking concepts.
 
 ---
 
